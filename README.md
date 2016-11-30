@@ -210,7 +210,7 @@
 * [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) 兼容PC，Mobile。还不错，有5k+的star
 * [layer](https://github.com/sentsin/layer) 国人开发的，兼容ie6+。不喜欢其调用方式。
 * [artDialog](https://github.com/aui/artDialog) 糖饼大神开发,兼容IE6-11及各主流浏览器
-* [zebraDialog]https://github.com/stefangabos/Zebra_Dialog 矫小的弹出层插件兼容IE6+
+* [zebraDialog](https://github.com/stefangabos/Zebra_Dialog) 矫小的弹出层插件兼容IE6+
 
 ### 动画效果
 * [mixitup](https://mixitup.kunkalabs.com/) 用漂亮的动画效果来完成排序和筛选
@@ -251,6 +251,7 @@
 * [Awesomplete](http://leaverou.github.io/awesomplete/) 输入的智能提示，自动补全
 * [proTip](http://protip.rocks/) 提示。感觉比 Bootstrap 的 tip 好
 * [Hammerjs](http://hammerjs.github.io/) 手势库。封装了 Swipe, Tap, Pinch, Pan等手势
+* [fastClick](https://github.com/dave1010/jquery-fast-click) 解决移动端点击事件延迟300ms
 
 ## <a name="anim">动画</a>
 * [velocity](https://github.com/julianshapiro/velocity) 提高Jquery动画的性能。以及颜色动画之类的新特性。
