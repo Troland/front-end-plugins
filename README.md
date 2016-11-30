@@ -152,7 +152,8 @@
 ### 加载(Loding)效果
 * [CSS Spinners](https://github.com/jlong/css-spinners) CSS做的
 * [Loaders.css](https://connoratherton.com/loaders) CSS做的
-
+* [is-loading](https://github.com/hekigan/is-loading) 支持多种方式的loading
+* [spin.js](https://github.com/fgnass/spin.js)
 
 ### 表格组件
 * [jsGrid](http://js-grid.com/) Data Grid。 [详细](detail/jsGrid)
@@ -177,6 +178,7 @@
 
 ### 通知组件
 * [notie.js](https://github.com/jaredreich/notie.js)
+* [toastr.js](https://github.com/CodeSeven/toastr) 5K+的star
 
 ### HTML5播放器
 * [jwplayer](http://www.jwplayer.com/) 被大量网站使用
@@ -206,6 +208,8 @@
 ### 弹出框
 * [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) 兼容PC，Mobile。还不错，有5k+的star
 * [layer](https://github.com/sentsin/layer) 国人开发的，兼容ie6+。不喜欢其调用方式。
+* [artDialog](https://github.com/aui/artDialog) 糖饼大神开发,兼容IE6-11及各主流浏览器
+* [zebraDialog]https://github.com/stefangabos/Zebra_Dialog 矫小的弹出层插件兼容IE6+
 
 ### 动画效果
 * [mixitup](https://mixitup.kunkalabs.com/) 用漂亮的动画效果来完成排序和筛选
@@ -263,6 +267,7 @@
 
 
 ## <a name="other">其他类</a>
+* [XDomainRequest](https://github.com/MoonScript/jQuery-ajaxTransport-XDomainRequest) 让IE8-9通过XDomainRequest支持CORS跨域请求
 * [ZeroClipboard](https://github.com/zeroclipboard/ZeroClipboard) 将内容复制到剪切板兼容主流浏览器的解决方案 [详细](http://www.jianshu.com/p/1a74c112f962)
 * [html2canvas](http://html2canvas.hertzen.com/) html转化成canvas，可以用来做截图。[详细](detail/html2canvas)
 * [Ink](http://zurb.com/ink/) 响应式html邮件框架
