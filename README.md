@@ -28,6 +28,7 @@
     * [bacon.js](https://github.com/baconjs/bacon.js/) 函数式编程，cool
     * [streamjs](https://github.com/winterbe/streamjs) 用流的方式来对数组，对象进行系列操作
     * [rewrap](https://github.com/taijiweb/rewrap) 正则工具库。相关插件[regexp-frequent](https://github.com/taijiweb/regexp-frequent),[rewrap-patch](https://github.com/taijiweb/rewrap-patch)
+    * [immutable-js](https://github.com/facebook/immutable-js) 数据持久化,不能够直接修改数据，要通过api来进行数据的修改来产生新数据
 * 异步流程控制
     * 发布订阅
         * [eventproxy](https://github.com/JacksonTian/eventproxy) 朴灵出品
@@ -126,6 +127,7 @@
 ### 拖拽
 * [dragula](https://github.com/bevacqua/dragula) 支持Draggable，Dropable和Sortable。感觉比jqueryUI的轻量级，好用的样子
 * [angular-dragula](http://bevacqua.github.io/angular-dragula/) dragular 官方的 angular 版本
+* [sortable](https://github.com/RubaXa/Sortable) 拖拽组件
 
 ### 数据可视化(图表)
 * [Echarts](http://echarts.baidu.com/) 百度出品
