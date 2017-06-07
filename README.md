@@ -48,14 +48,21 @@
     * [console-polyfill](https://github.com/paulmillr/console-polyfill/) 能放心的使用 console.log()之类的console方法
     * [log](https://github.com/adamschwartz/log) 让控制台输出的log有样式
     * [Konsole.js](https://github.com/eatcodeplay/Konsole.js) 在页面的一个元素里输出log信息 [详细](detail/konsole)
-* [uri.js](https://github.com/medialize/URI.js) uri操作
-* [cookie](https://github.com/ScottHamper/Cookies) 增删改cookie的工具库
-* [director](https://github.com/flatiron/director) 前端路由库 [详细](detail/director)
-* [BigDecimal.js](https://github.com/dtrebbien/BigDecimal.js) 提高精度的数字操作
-* [JSDoc](http://usejsdoc.org/) 根据javascript文件中注释的信息，生成API文档 [详细](detail/JSDoc)
-* [hotkeys](http://jslite.io/hotkeys/) 键盘事件的封装
-* [MD5](https://github.com/pvorb/node-md5) 用 MD5 的方式加密文件的库
-* [Exif.js](https://github.com/exif-js/exif-js) 读取 JPEG 图片的拍摄信息。可以通过拍摄信息中的 Orientation 来解决 ios 手机上传竖拍照片会逆时针旋转90度的问题。
+    * [uri.js](https://github.com/medialize/URI.js) uri操作
+    * [cookie](https://github.com/ScottHamper/Cookies) 增删改cookie的工具库
+    * [director](https://github.com/flatiron/director) 前端路由库 [详细](detail/director)
+    * [BigDecimal.js](https://github.com/dtrebbien/BigDecimal.js) 提高精度的数字操作
+    * [JSDoc](http://usejsdoc.org/) 根据javascript文件中注释的信息，生成API文档 [详细](detail/JSDoc)
+    * [hotkeys](http://jslite.io/hotkeys/) 键盘事件的封装
+    * [Exif.js](https://github.com/exif-js/exif-js) 读取 JPEG 图片的拍摄信息。可以通过拍摄信息中的 Orientation 来解决 ios 手机上传竖拍照片会逆时针旋转90度的问题。
+    * [offline.js](https://github.com/HubSpot/offline) 判断网络状态
+ * 加解密
+  * [MD5](https://github.com/pvorb/node-md5) 用 MD5 的方式加密文件的库
+  * [jwt-decode](https://github.com/auth0/jwt-decode) 解码JWT令牌但不包含验证
+ * Auth
+  * [auth0](https://github.com/Troland/auth0.js) auth0网站的令牌安全管理
+  * [caja](https://github.com/google/caja) 过滤输入输出防止XSS
+  * [vue-jwt](https://github.com/websanova/vue-auth) vue jwt-auth验证令牌是否过期
 
 ## <a name="browser-strong">浏览器增强类</a>
 ### 让一些旧浏览器变牛逼的库
@@ -115,6 +122,7 @@
 ### 浏览图片
 * [fancybox](http://fancyapps.com/fancybox/) 弹出查看图片，视屏等等 [demo](http://fancyapps.com/fancybox/demo/)
 * [yoxview](http://www.yoxigen.com/yoxview/) 弹出查看图片，图片尺寸缩放很自然
+* [alloy_crop](https://github.com/AlloyTeam/AlloyFinger/tree/master/alloy_crop) 裁剪图片
 
 ### 图片墙
 * [wookmark](http://www.wookmark.com/jquery-plugin)
