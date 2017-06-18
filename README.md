@@ -23,7 +23,7 @@
     * [underscore.js](http://underscorejs.org/)
     * [lo-dash](http://lodash.com/) 与underscore.js的api基本一致。与underscore比其优势是，效率高；可自定义构建
     * [Sugar](https://github.com/andrewplummer/Sugar/) 在原生对象上增加一些工具方法
-    * [functional.js](https://github.com/leecrossley/functional-js/) 提够了一些Curry的支持
+    * [functadpional.js](https://github.com/leecrossley/functional-js/) 提够了一些Curry的支持
     * [Watch.js](https://github.com/melanke/Watch.JS) 监视对象或属性的变化
     * [bacon.js](https://github.com/baconjs/bacon.js/) 函数式编程，cool
     * [streamjs](https://github.com/winterbe/streamjs) 用流的方式来对数组，对象进行系列操作
@@ -45,6 +45,7 @@
     * [Bowser](https://github.com/ded/bowser) 探测具体浏览器和版本
     * [ua-parser-js](https://github.com/faisalman/ua-parser-js) 探测具体浏览器和版本，操作系统，设备类型等
 * 调试
+    * (dpi)[https://github.com/jorgegilramos/screen-dpi-detector] 取出浏览器的ldpi,mdpi,hdpi等
     * [console-polyfill](https://github.com/paulmillr/console-polyfill/) 能放心的使用 console.log()之类的console方法
     * [log](https://github.com/adamschwartz/log) 让控制台输出的log有样式
     * [Konsole.js](https://github.com/eatcodeplay/Konsole.js) 在页面的一个元素里输出log信息 [详细](detail/konsole)
@@ -59,6 +60,8 @@
  * 加解密
   * [MD5](https://github.com/pvorb/node-md5) 用 MD5 的方式加密文件的库
   * [jwt-decode](https://github.com/auth0/jwt-decode) 解码JWT令牌但不包含验证
+  * [base64](https://github.com/davidchambers/Base64.js) base64编码解码
+  * [crypto-js](https://github.com/brix/crypto-js) 多种加解密
  * Auth
   * [auth0](https://github.com/Troland/auth0.js) auth0网站的令牌安全管理
   * [caja](https://github.com/google/caja) 过滤输入输出防止XSS
@@ -221,6 +224,7 @@
 * [layer](https://github.com/sentsin/layer) 国人开发的，兼容ie6+。不喜欢其调用方式。
 * [artDialog](https://github.com/aui/artDialog) 糖饼大神开发,兼容IE6-11及各主流浏览器
 * [zebraDialog](https://github.com/stefangabos/Zebra_Dialog) 矫小的弹出层插件兼容IE6+
+* [layer.mobile](http://layer.layui.com/mobile) 手机端弹窗
 
 ### 动画效果
 * [mixitup](https://mixitup.kunkalabs.com/) 用漂亮的动画效果来完成排序和筛选
@@ -292,7 +296,7 @@
 * [Masonry](https://github.com/desandro/masonry) 一个瀑布流框架
 * [devices.css](https://github.com/marvelapp/devices.css) 移动设备边框的外观。做原型的时候用不错。
 * [city](https://github.com/basecss/city) 国家行政区划分数据。从国家统计局拿的。 [城市数据](https://github.com/basecss/city/blob/master/lib/citydata.json)
-
+* [animate](http://daneden.github.io/animate.css/) 动画库
 ## <a name="bootstrap">Bootstrap相关类</a>
 * [Bootbox.js](http://bootboxjs.com/) 对bootstrap的弹出框做的一些封装
 * 免费皮肤
@@ -307,3 +311,4 @@
 * [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
 * [Libraries.io](https://libraries.io/) 各种语言的库
 * [OniUI](http://ued.qunar.com/oniui/index.html#avalon.accordion.doc.html) 去哪儿网做的一套基于Avalon的框架
+* [ratchet](http://goratchet.com/) facebook出品的移动原型框架
