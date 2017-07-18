@@ -20,6 +20,7 @@
 
 ## <a name="tool">工具类</a>
 * 方便操作对象，数组等的工具库
+    * [microjs](http://microjs.com/) 一些JS的常用库
     * [underscore.js](http://underscorejs.org/)
     * [lo-dash](http://lodash.com/) 与underscore.js的api基本一致。与underscore比其优势是，效率高；可自定义构建
     * [Sugar](https://github.com/andrewplummer/Sugar/) 在原生对象上增加一些工具方法
@@ -35,6 +36,7 @@
         * [Arbiter.js](http://arbiterjs.com/) [详细](detail/Arbiter)
     * [q](https://github.com/kriskowal/q/) Promise风格的
     * [Async.js](https://github.com/caolan/async/)
+    * [superagent](https://github.com/visionmedia/superagent) 轻量级ajax库
 * mock
     * [Mock.js](https://github.com/nuysoft/Mock) 生成随机数据和mock Ajax 请求
     * [jquery-mockjax](https://github.com/jakerella/jquery-mockjax) [mock](http://baike.baidu.com/view/2445748.htm) ajax请求
@@ -180,6 +182,9 @@
 ### 选取颜色
 * [Spectrum](http://bgrins.github.io/spectrum/?color=&color2=%233355cc&color3=%23000000#toc0)
 
+### 评价星
+* [vue-star-rating](https://www.npmjs.com/package/vue-star-rating)
+
 ### 分享到SNS
 * [JiaThis](http://www.jiathis.com/) 生成分享代码。
 
@@ -283,6 +288,7 @@
 
 
 ## <a name="other">其他类</a>
+* [Sass Grid](https://github.com/thoughtbot/neat) Sass grid系统
 * [XDomainRequest](https://github.com/MoonScript/jQuery-ajaxTransport-XDomainRequest) 让IE8-9通过XDomainRequest支持CORS跨域请求
 * [ZeroClipboard](https://github.com/zeroclipboard/ZeroClipboard) 将内容复制到剪切板兼容主流浏览器的解决方案 [详细](http://www.jianshu.com/p/1a74c112f962)
 * [html2canvas](http://html2canvas.hertzen.com/) html转化成canvas，可以用来做截图。[详细](detail/html2canvas)
