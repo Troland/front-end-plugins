@@ -20,6 +20,7 @@
 
 ## <a name="tool">工具类</a>
 * 方便操作对象，数组等的工具库
+    * [Qrcode](https://github.com/davidshimjs/qrcodejs) 生成二维码插件
     * [vue资源库](https://github.com/Troland/awesome-vue-cn) Vue的常用库等
     * [microjs](http://microjs.com/) 一些JS的常用库
     * [underscore.js](http://underscorejs.org/)
