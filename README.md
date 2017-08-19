@@ -57,6 +57,8 @@
     * [cookie](https://github.com/ScottHamper/Cookies) 增删改cookie的工具库
     * [director](https://github.com/flatiron/director) 前端路由库 [详细](detail/director)
     * [BigDecimal.js](https://github.com/dtrebbien/BigDecimal.js) 提高精度的数字操作
+    * [Decimal.js](https://www.npmjs.com/package/decimal.js) 提高精度的数字操作
+    * [Bignumber](https://github.com/MikeMcl/bignumber.js) 提高精度的数字操作
     * [JSDoc](http://usejsdoc.org/) 根据javascript文件中注释的信息，生成API文档 [详细](detail/JSDoc)
     * [hotkeys](http://jslite.io/hotkeys/) 键盘事件的封装
     * [Exif.js](https://github.com/exif-js/exif-js) 读取 JPEG 图片的拍摄信息。可以通过拍摄信息中的 Orientation 来解决 ios 手机上传竖拍照片会逆时针旋转90度的问题。
