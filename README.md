@@ -115,6 +115,7 @@
 * lazyload
 * [imagesLoaded](http://desandro.github.io/imagesloaded/) 选取的图片都加载好后执行调回
 * [CSSgram](https://github.com/una/CSSgram) 用CSS3的Filter实现Instagram滤镜的库
+* [cropper](https://github.com/fengyuanchen/cropper) 图片裁剪
 
 ## <a name="icon">图标类</a>
 * [Icon Font汇总](https://github.com/lvwzhen/iconpark)
