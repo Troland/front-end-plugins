@@ -39,6 +39,7 @@
     * [q](https://github.com/kriskowal/q/) Promise风格的
     * [Async.js](https://github.com/caolan/async/)
     * [superagent](https://github.com/visionmedia/superagent) 轻量级ajax库
+    * [es6-promise](https://www.npmjs.com/package/es6-promise) es6 promise 兼容插件
 * mock
     * [Mock.js](https://github.com/nuysoft/Mock) 生成随机数据和mock Ajax 请求
     * [jquery-mockjax](https://github.com/jakerella/jquery-mockjax) [mock](http://baike.baidu.com/view/2445748.htm) ajax请求
@@ -55,6 +56,7 @@
     * [Konsole.js](https://github.com/eatcodeplay/Konsole.js) 在页面的一个元素里输出log信息 [详细](detail/konsole)
     * [uri.js](https://github.com/medialize/URI.js) uri操作
     * [cookie](https://github.com/ScottHamper/Cookies) 增删改cookie的工具库
+    * [store](https://github.com/marcuswestin/store.js) 本地存储
     * [director](https://github.com/flatiron/director) 前端路由库 [详细](detail/director)
     * [BigDecimal.js](https://github.com/dtrebbien/BigDecimal.js) 提高精度的数字操作
     * [Decimal.js](https://www.npmjs.com/package/decimal.js) 提高精度的数字操作
@@ -237,6 +239,7 @@
 * [layer.mobile](http://layer.layui.com/mobile) 手机端弹窗
 
 ### 动画效果
+* [velocity](https://github.com/julianshapiro/velocity) JavaScript动画效果库
 * [mixitup](https://mixitup.kunkalabs.com/) 用漂亮的动画效果来完成排序和筛选
 * [jQuery.Marquee](https://github.com/aamirafridi/jQuery.Marquee) 跑马灯效果
 * [quickflip](http://jonraasch.com/blog/quickflip-jquery-plugin) 卡片翻转效果
@@ -250,7 +253,7 @@
 * [Snap.js](https://github.com/jakiestfu/Snap.js/) 左/右侧导航的出现效果
 * [CSS shake](http://elrumordelaluz.github.io/csshake/) 抖动动画
 * [ClickSpark.js](http://www.ymc.ch/sandbox/clickspark/demo.html) 点击后的一些酷炫的效果
-
+* [countUp](https://inorganik.github.io/countUp.js/) 数字从小到大，从大到小的渐变的一直跳数的效果
 #### 视觉差插件
 * [scrollorama](https://github.com/johnpolacek/scrollorama) 比较简单
 * [superscrollorama](https://github.com/johnpolacek/superscrollorama) 能做的效果更多，但要用第三方Tween的库，使用起来比较复杂。
@@ -323,3 +326,4 @@
 * [Libraries.io](https://libraries.io/) 各种语言的库
 * [OniUI](http://ued.qunar.com/oniui/index.html#avalon.accordion.doc.html) 去哪儿网做的一套基于Avalon的框架
 * [ratchet](http://goratchet.com/) facebook出品的移动原型框架
+* [vue-scroller](https://github.com/wangdahoo/vue-scroller/) vue-scroller 上拉加载，下拉刷新，滚动加载
