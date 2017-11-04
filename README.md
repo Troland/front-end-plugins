@@ -254,6 +254,8 @@
 * [CSS shake](http://elrumordelaluz.github.io/csshake/) 抖动动画
 * [ClickSpark.js](http://www.ymc.ch/sandbox/clickspark/demo.html) 点击后的一些酷炫的效果
 * [countUp](https://inorganik.github.io/countUp.js/) 数字从小到大，从大到小的渐变的一直跳数的效果
+* [loading](https://github.com/jack-Lo/ez-progress) 进度条0到100显示进度
+
 #### 视觉差插件
 * [scrollorama](https://github.com/johnpolacek/scrollorama) 比较简单
 * [superscrollorama](https://github.com/johnpolacek/superscrollorama) 能做的效果更多，但要用第三方Tween的库，使用起来比较复杂。
@@ -327,3 +329,4 @@
 * [OniUI](http://ued.qunar.com/oniui/index.html#avalon.accordion.doc.html) 去哪儿网做的一套基于Avalon的框架
 * [ratchet](http://goratchet.com/) facebook出品的移动原型框架
 * [vue-scroller](https://github.com/wangdahoo/vue-scroller/) vue-scroller 上拉加载，下拉刷新，滚动加载
+* [art-template](https://github.com/aui/art-template) 最快的模板引擎
